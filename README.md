@@ -7,7 +7,7 @@ This project investigates how Autonomous Sensory Meridian Response (ASMR) and va
 
 ## Research Question
 
-*To what extent do ASMR exposure duration and distraction severity alter HR and BP in students?*
+*To what extent do ASMR exposure duration and distraction severity alter Heart Rate and Blood Pressure in students?*
 
 ## Background
 
