@@ -30,11 +30,11 @@ Post-secondary students at the University of Toronto
 
 2. Distractions introduced during ASMR exposure:
 
-    i. Level 1: Ball rolling
+    i. Level 1: Object Falling
 
     ii. Level 2: Phone alarm
 
-    iii. Level 3: Jumpscare image
+    iii. Level 3: Video with Jumpscare
 
 ### Procedure:
 
