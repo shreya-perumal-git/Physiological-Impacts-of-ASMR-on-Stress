@@ -40,3 +40,12 @@ Post-secondary students at the University of Toronto
 
 Baseline HR/BP readings were taken to establish participants' norms. Then they were exposed to a distraction level to examine how HR/BP could impact the HR/BP. Measurements were taken every 40-45 seconds, using an HR/BP monitor. Following testing procedures, several R programs were created to analyze the data, resulting in Interaction plots, ANOVA, regression models, Residual Q-Q plots, and Shapiro-Wilk tests for normality. 
 
+
+### Project Details:
+
+- The Data Collection Folder encompasses all of the data collection data, including individual CSVs of all data collected and an XLSX file with all CSVs within
+- The R Code folder contains all of the R scripts for each analysis method and category
+- Physiological Impact of ASMR on Stress PDF contains a detailed description of the project and results
+
+
+
