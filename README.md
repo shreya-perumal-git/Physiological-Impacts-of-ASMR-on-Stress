@@ -1,4 +1,4 @@
-# Physiological-Impacts-of-ASMR-on-Stress
+# The Physiological Impact of ASMR and Distraction on Heart Rate and Blood Pressure
 This study investigates how ASMR and distraction affect heart rate and blood pressure in university students. Results show ASMR lowers physiological arousal, while distractions raise it. Findings suggest ASMR has relaxation potential but is highly sensitive to environmental interruptions.
 
 ## Overview
