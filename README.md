@@ -26,9 +26,9 @@ Post-secondary students at the University of Toronto
 
 ### Stimuli:
 
-** 1. Relaxing ASMR video **
+1. Relaxing ASMR video
 
-** 2. Distractions introduced during ASMR exposure: **
+2. Distractions introduced during ASMR exposure:
 
     i. Level 1: Ball rolling
 
